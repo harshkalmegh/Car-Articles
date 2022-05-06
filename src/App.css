@@ -1,0 +1,20 @@
+.articlesContainer {
+  display: flex;
+  width: 94%;
+  justify-content: start;
+  border: 2px solid;
+  margin: 20px;
+  padding: 20px;
+}
+
+.articlesContainer img {
+  margin: 0 10px;
+}
+
+.articles p {
+  font-size: 20px;
+}
+
+.articles img {
+  width: 500px;
+}
